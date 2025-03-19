@@ -128,3 +128,11 @@ more than one FILE is specified.
 	~={purple}-N=~ => Evita que patches que já foram aplicados sejam desfeitos.
 	~={purple}-R=~ => Reverte as alterações.
 		**Ex.:** ==> 
+
+**tar** => GNU 'tar' saves many files together into a single tape or disk archive, and can
+restore individual files from the archive.
+	~={purple}-x=~ => --extract, --get **|** Extract files from an archive.
+	~={purple}-J=~ => --xz **|** Filter the archive through xz.
+	~={purple}-v=~ => --verbose **|** Verbosely list files processed.
+
+**whereis** => Locate the binary, source, and manual-page files for a command.
