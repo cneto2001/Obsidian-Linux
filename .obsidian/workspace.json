@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gerenciamento e execução de processos.md",
+                "file": "Multiplexador de Terminais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gerenciamento e execução de processos"
+              "title": "Multiplexador de Terminais"
             }
           }
         ]
@@ -171,10 +171,11 @@
   },
   "active": "a3680adb91449902",
   "lastOpenFiles": [
+    "Gerenciamento e execução de processos.md",
+    "Multiplexador de Terminais.md",
     "Comandos Variados.md",
     "Linux Shell Basics (BASH).md",
     "README.md",
-    "Gerenciamento e execução de processos.md",
     "Curingas.md",
     "Pasted image 20250318143334.png",
     "Pasted image 20250318143525.png",

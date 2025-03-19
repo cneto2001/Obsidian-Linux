@@ -67,3 +67,11 @@ A prioridade de execução de um [**processo**](https://guialinux.uniriotec.br/p
 	~={purple}-g=~ [gid] => altera a prioridade de todos os processos que possuem o [**GID**](https://guialinux.uniriotec.br/gid/) especificado.
 	~={purple}-help=~.
 	~={purple}--version=~.
+
+**vmstat** [OPTIONS] => Este comando exibe estatísticas sobre a memória virtual.
+	~={purple}-d=~ => Exibe estatísticas do disco.
+	~={purple}-D=~ => Apresenta um resumo sobre as atividades do disco.
+	~={purple}-s=~ => Apresenta uma tabela com estatísticas sobre a memória e sobre os eventos.
+	~={purple}-S=~ [~={orange}unit=~] => Muda a unidade do relatório. Use **k** para 1000 bytes, **K** para 1024 bytes, **m** para 1000000 bytes e **M** para 1048576 bytes.
+	~={purple}-help=~.
+	~={purple}--version=~.
