@@ -9,3 +9,16 @@
 	![[Pasted image 20250320101051.png]]
 
 **groupadd** => Este comando cria um novo grupo de usuários.
+
+**delgroup** / **groupdel** => Remove grupos.
+
+**newgrp** => Este comando muda, temporariamente, o grupo do usuário. Isto significa que o usuário passa a usar o grupo _teste_ na sessão e que, se ele criar um novo arquivo, este pertencerá ao grupo _teste._
+
+**passwd** [OPTIONS]  [USER] => Este comando altera as senhas dos usuários.
+	~={purple}-d=~ => Deleta a senha de um usuário.
+	~={purple}-e=~ => Passa a considerar a senha expirada. Isto significa que o usuário terá que alterar a senha no próximo login.
+	~={purple}-u=~ => A atualização só é efetuada após a data de expiração da senha atual.
+	~={purple}-l=~ => Lock the password of the named account. This option disables a password by        changing it to a value which matches no possible encrypted value (it adds a ´!´ at the beginning of the password).
+	~={purple}--help=~.
+
+****

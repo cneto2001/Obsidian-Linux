@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "su",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,14 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3680adb91449902",
+  "active": "66a1fda85140ce80",
   "lastOpenFiles": [
-    "Comandos Variados.md",
+    "Data Locations.md",
     "User Commands.md",
+    "Comandos Variados.md",
     "Pasted image 20250320101051.png",
     "Linux Shell Basics (BASH).md",
     "Gerenciamento e execução de processos.md",
-    "Data Locations.md",
     "Curingas.md",
     "README.md",
     "Pasted image 20250318143334.png",
