@@ -74,7 +74,7 @@
 	~={purple}-E=~ => Permite que a pesquisa seja realizada utilizando expressões regulares.
 	~={purple}-F=~ => Realiza a pesquisa de acordo com a ~={orange}string=~ exata.
 
-**deluser** => Delete user.
+**deluser** / **userdel** => Delete user.
 
 **adduser** => Adds a new user. Can also be used to give special permissions.
 	~={purple}--home =~ [DIR] => Define o diretório _home_ do usuário.
