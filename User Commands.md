@@ -24,3 +24,10 @@
 	~={purple}--help=~.
 
 **gpasswd** => Este comando é utilizado para administrar `/etc/group` e `/etc/gshadow`. Todos os grupos podem ter administradores, membros e uma senha.
+	~={purple}-a=~ [user] => Adiciona o ~={orange}user=~ ao ~={orange}group=~.
+	~={purple}-d=~ [user] => Remove o ~={orange}user=~ do ~={orange}group=~.
+	~={purple}-A=~ [user] => Define a lista de usuários administrativos.
+	~={purple}-M=~ [user], ... => Define a lista de membros.
+
+**usermod** => Modifica uma conta de usuário.
+	~={purple}-=~
