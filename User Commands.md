@@ -30,4 +30,17 @@
 	~={purple}-M=~ [user], ... => Define a lista de membros.
 
 **usermod** => Modifica uma conta de usuário.
-	~={purple}-=~
+	~={purple}-a=~ => Adiciona o ~={orange}user=~ aos grupos suplementares. Use apenas com ~={purple}-G=~.
+	~={purple}-g=~ [GROUP] => The name or numerical ID of the user's new primary group. The
+           group must exist.
+           Any file from the user's home directory owned by the previous
+           primary group of the user will be owned by this new group.
+           The group ownership of files outside of the user's home
+           directory must be fixed manually.
+           The change of the group ownership of files inside of the
+           user's home directory is also not done if the home dir owner
+           uid is different from the current or new user id. This is a
+           safety measure for special home directories such as /.
+       ~={purple}-c=~ "[COMMENT]" => Atualiza o campo de comentário do ~={orange}user=~ em `/etc/passwd`, o qual é normalmente modificado pela utilidade ~={purple}chfn(1)=~.
+
+**chfn** [OPTIONS]  [login] => 
