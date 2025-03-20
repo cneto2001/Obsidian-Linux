@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chmod",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66a1fda85140ce80",
+  "active": "a3680adb91449902",
   "lastOpenFiles": [
+    "Pasted image 20250320150112.png",
+    "Pasted image 20250320145923.png",
+    "Pasted image 20250320145917.png",
+    "Pasted image 20250320145848.png",
+    "Pasted image 20250320144909.png",
     "Pasted image 20250320143315.png",
     "Pasted image 20250320143240.png",
     "Pasted image 20250320143112.png",
@@ -186,10 +191,6 @@
     "Gerenciamento e execução de processos.md",
     "Curingas.md",
     "README.md",
-    "Pasted image 20250318143334.png",
-    "Pasted image 20250318143525.png",
-    "Pasted image 20250318143517.png",
-    "Pasted image 20250318093813.png",
     "SEXO VERBAL.md"
   ]
 }
