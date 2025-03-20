@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Variados.md",
+                "file": "Data Locations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Variados"
+              "title": "Data Locations"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "a3680adb91449902",
   "lastOpenFiles": [
-    "Multiplexador de Terminais.md",
+    "Linux Shell Basics (BASH).md",
+    "Curingas.md",
     "Gerenciamento e execução de processos.md",
     "Comandos Variados.md",
-    "Linux Shell Basics (BASH).md",
+    "Data Locations.md",
     "README.md",
-    "Curingas.md",
     "Pasted image 20250318143334.png",
     "Pasted image 20250318143525.png",
     "Pasted image 20250318143517.png",

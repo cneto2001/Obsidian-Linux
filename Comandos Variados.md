@@ -77,6 +77,12 @@
 **deluser** => Delete user.
 
 **adduser** => Adds a new user. Can also be used to give special permissions.
+	~={purple}--home =~ [DIR] => Define o diretório _home_ do usuário.
+	~={purple}--uid=~ [UID] => Especifica o [**UID**](https://guialinux.uniriotec.br/uid/) do novo usuário.
+	~={purple}--gid=~ [GID] => Especifica o [**G****I****D**](https://guialinux.uniriotec.br/gid/) do grupo primário (principal) ao qual o usuário pertence.
+	~={purple}--shell=~ [SHELL] => Especifica o [**shell**](https://guialinux.uniriotec.br/shell/) padrão do usuário.
+	~={purple}--ingroup=~ [GROUP] => Define _GROUP_ como o grupo primário (principal) do novo usuário, onde _GROUP_ é o nome de um grupo que já existe.
+	~={purple}--system=~ => Especifica que o usuário a ser criado é da administração do sistema (o valor do [**UID**](https://guialinux.uniriotec.br/uid/) será, por padrão, de 100 a 999).
 
 **sync** => Atualiza arquivos no buffer.
 
