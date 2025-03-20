@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "su",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66a1fda85140ce80",
+  "active": "a3680adb91449902",
   "lastOpenFiles": [
     "Data Locations.md",
     "User Commands.md",
