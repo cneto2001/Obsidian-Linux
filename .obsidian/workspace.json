@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chmod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3680adb91449902",
+  "active": "66a1fda85140ce80",
   "lastOpenFiles": [
+    "Pasted image 20250320143315.png",
+    "Pasted image 20250320143240.png",
+    "Pasted image 20250320143112.png",
+    "Pasted image 20250320143048.png",
+    "Pasted image 20250320142922.png",
     "User Commands.md",
     "User Permissions.md",
     "Data Locations.md",
