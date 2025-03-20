@@ -43,4 +43,29 @@
            safety measure for special home directories such as /.
        ~={purple}-c=~ "[COMMENT]" => Atualiza o campo de comentário do ~={orange}user=~ em `/etc/passwd`, o qual é normalmente modificado pela utilidade ~={purple}chfn(1)=~.
 
-**chfn** [OPTIONS]  [login] => 
+**groupmod** [options]  [GROUP] => The **groupmod** command modifies the definition of the specified ~={orange}GROUP=~ by modifying the appropriate entry in the group database.
+
+**chfn** [OPTIONS]  [login] => Change your finger information.
+	~={purple}-f=~ => Specify your real name.
+	~={purple}-o=~ => Specify your office room number.
+	~={purple}-p=~ => Specify your office phone number.
+	~={purple}-h=~ => Specify your home phone number.
+
+**chsh** [-s shell]  [-l]  [-h]  [-V]  [username] => Change your login shell.
+	~={purple}-s=~ => specify your login shell.
+	~={purple}-l=~ => Print the list of shells listed in _/etc/shells_ and exit.
+	~={purple}-h | -V=~ => Help and version.
+
+**lastlog** => **lastlog** formats and prints the contents of the last login log
+       /var/log/lastlog file. The _login-name_, _port_, and _last login time_
+       will be printed. The default (no flags) causes lastlog entries to
+       be printed, sorted by their order in /etc/passwd.
+
+**last** => List logins on the system.
+
+**users** [OPTION]... [FILE]=> Print the user names of users currently logged in to the
+current host.
+
+**groups** => Print the groups a user is in.
+
+
