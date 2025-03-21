@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,6 +171,8 @@
   },
   "active": "a3680adb91449902",
   "lastOpenFiles": [
+    "Curingas.md",
+    "User Permissions.md",
     "Pasted image 20250320151257.png",
     "Pasted image 20250320150609.png",
     "Pasted image 20250320150503.png",
@@ -182,14 +183,11 @@
     "Pasted image 20250320144909.png",
     "Pasted image 20250320143315.png",
     "Pasted image 20250320143240.png",
-    "Pasted image 20250320143112.png",
     "User Commands.md",
-    "User Permissions.md",
     "Data Locations.md",
     "Comandos Variados.md",
     "Linux Shell Basics (BASH).md",
     "Gerenciamento e execução de processos.md",
-    "Curingas.md",
     "README.md",
     "SEXO VERBAL.md"
   ]

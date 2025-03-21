@@ -12,3 +12,5 @@
 **{}** => Delimita diferentes combinações de caracteres.
 **Ex.:** ==>  ls x{zd,ze,zm}* => retorna todos os dados começados em x, seguido de "zd", "ze" ou "zm", com qualquer combinação e quantidade de caracteres após isso.
 
+**Recursivo** ==> Aplica o comando em todo o diretório/ em todos os níveis dele.
+
