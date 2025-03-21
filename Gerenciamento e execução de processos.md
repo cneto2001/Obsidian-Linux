@@ -9,9 +9,9 @@
 
 **ifconfig [OPTIONS]** => O comando é usado para configurar (e posteriormente manter) as interfaces de rede. É usado durante o _boot_ para configurar a maioria das interfaces de rede para um estado utilizável. Depois disto, sua utilização é normalmente necessária somente durante depurações ou quando for necessário melhorar a configuração do sistema.
 
-**sleep** => Pause for NUMBER seconds.  SUFFIX may be 's' for seconds (the default),
-'m' for minutes, 'h' for hours or 'd' for days.  NUMBER need not be an
-integer.  Given two or more arguments, pause for the amount of time
+**sleep** => Pause for ~={orange}NUMBER=~ seconds.  SUFFIX may be 's' for seconds (the default),
+'m' for minutes, 'h' for hours or 'd' for days.  ~={orange}NUMBER=~ need ~={red}not=~ be an
+~={orange}integer=~.  Given two or more arguments, pause for the amount of time
 specified by the sum of their values.
 
 **jobs** => Lista os **[processos](https://guialinux.uniriotec.br/processo/)** inicializados a partir do terminal.
