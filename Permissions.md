@@ -6,3 +6,6 @@
 
 ![[Pasted image 20250321095355.png]]
 
+**umask** => Define a permissão padrão do arquivo/diretório no momento de criação (Válido somente durante a sessão atual no SHELL).
+
+**Permissão Default** => ~={orange}Arquivo=~ ==> 0666  | Diretório ==> 777.
