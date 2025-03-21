@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redirecionadores STDOUT.md",
+                "file": "Redirecionadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redirecionadores STDOUT"
+              "title": "Redirecionadores"
             }
           }
         ],
@@ -200,18 +200,21 @@
   },
   "active": "bc97c824631f4390",
   "lastOpenFiles": [
-    "Pasted image 20250321142548.png",
-    "Redirecionadores e Operadores.md",
-    "Gerenciamento e execução de processos.md",
-    "Linux Shell Basics (BASH).md",
-    "README.md",
-    "Permissions.md",
     "User Commands.md",
     "User Permissions.md",
-    "Redirecionadores STDOUT.md",
+    "Comandos Variados.md",
+    "Gerenciamento e execução de processos.md",
+    "Linux Shell Basics (BASH).md",
+    "Permissions.md",
+    "Images/Pasted image 20250321153929.png",
+    "Redirecionadores.md",
+    "Images/Pasted image 20250321153636.png",
+    "Images/Pasted image 20250321151232.png",
+    "Images/Pasted image 20250321142548.png",
+    "Redirecionadores e Operadores.md",
+    "README.md",
     "Data Locations.md",
     "Curingas.md",
-    "Comandos Variados.md",
     "Images/Pasted image 20250321095355.png",
     "Images",
     "Untitled.canvas",
@@ -222,10 +225,6 @@
     "Images/Pasted image 20250320150503.png",
     "Images/Pasted image 20250320150112.png",
     "Images/Pasted image 20250320145923.png",
-    "Images/Pasted image 20250320145917.png",
-    "Images/Pasted image 20250320145848.png",
-    "Images/Pasted image 20250320144909.png",
-    "Images/Pasted image 20250320143315.png",
     "SEXO VERBAL.md"
   ]
 }
