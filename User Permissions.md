@@ -38,3 +38,4 @@
 ==> **fchmod**() changes the mode of the file referred to by the open file descriptor _fd_.
 
 ==> **fchmodat**() system call operates in exactly the same way as **chmod**(), except for the differences described here. ~={red}==>=~ If the pathname given in _pathname_ is relative, then it is interpreted relative to the directory referred to by the file descriptor _dirfd_ (rather than relative to the current working directory of the calling process, as is done by **chmod**() for a relative pathname). ~={red}==>=~ If ~={orange}pathname=~ is relative and _dirfd_ is the special value **AT_FDCWD**, then _pathname_ is interpreted relative to the current working directory of the calling process (like **chmod**()). ~={red}==>=~ If _pathname_ is absolute, then _dirfd_ is ignored.
+
