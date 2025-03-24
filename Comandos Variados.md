@@ -142,3 +142,5 @@ restore individual files from the archive.
 	~={purple}-v=~ => --verbose **|** Verbosely list files processed.
 
 **whereis** => Locate the binary, source, and manual-page files for a command.
+
+**tail** => Output the last part of files.

@@ -16,3 +16,11 @@
 ![[Pasted image 20250321151232.png]]
 
 ![[Pasted image 20250321153929.png]]
+
+**|** ==> "Pega" o conteúdo do comando anterior e "joga" para o próximo comando processar.
+
+**tee** ==> read from standard input and write to standard output and files.
+
+**&&** ==> Se [Commando] então [Comando]. (O primeiro comando será executado de qualquer forma, caso seja ~={orange}TRUE=~).
+
+**||**  ==> Se [Comando] ou [Comando] ou.... ==> Executa na lógica conhecida.
